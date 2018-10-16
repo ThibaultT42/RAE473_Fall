@@ -11,7 +11,7 @@ networks.Computers can be composed differently.So you have to take into account 
 It is also necessary to take into account the different operating systems that do not communicate with the same protocols (messages or requests). To go from one to another there must be a gateway that would translate the object so that it is understandable for the receiver.
 there must be different implementors, for example one for C ++ and the other for Java for reciprocity.
 conclusion:
- - common communication standard.
+- common communication standard.
 - set of protocols
 - unique standard for the representation of data structures
 - calculation standard (different material)
